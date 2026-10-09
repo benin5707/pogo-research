@@ -2,6 +2,6 @@
 Work in Progress
 
 # What exactly is this
-Hello, this is _benin or throwaway5707. This is the centralized research repository for any research conducted by myself under the supervision and guidance of the No Floats Left Research Group. Please read below for an explanation for what linked repository is 
+Hello. I go by _benin or throwaway5707 on discord. This is the centralized research repository for any research involving Pokémon Go conducted by myself under the supervision and guidance of the No Floats Left Research Group. Please read below for an explanation for what linked repository is 
 
 ##
